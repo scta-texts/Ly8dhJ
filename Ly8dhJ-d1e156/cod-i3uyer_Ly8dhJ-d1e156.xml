@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Capitulum 4</title>
+        <title>Capitulum 5</title>
         <author>Petrus Hispanus</author>
         <editor>Alonso</editor>
         <respStmt>
@@ -12,7 +12,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Capitulum 4</title>
+          <title>Capitulum 5</title>
           <date when="2019-07-02">July 2, 2019</date>
         </edition>
       </editionStmt>
@@ -53,11 +53,12 @@
       </div>
     </front>
     <body>
-      <div>
-        <head>Capitulum 4</head>
-        <p>Dicimus igitur quod omnium causa et super omnia existens neque substantia est neque vita neque ratio neque mens neque corpus est neque figura neque forma; neque qualitatem neque quantitatem aut pondus habet; neque in loco est; neque videtur; neque tactum sensibilem habet; neque sentitur; neque sensibile est; neque inordinationem habet et terminationem a passionibus materialibus perturbatam, neque impotens est, sensibilibus subiecta casibus; neque indigentia est luminis; neque variationem, aut corruptionem, aut divisionem, aut passibilitatem, aut fluxum, aut aliud aliquid sensibilium, neque habet, neque est.
-        </p>
-        
+      <div xml:id="Ly8dhJ-d1e156">
+        <head xml:id="Ly8dhJ-d1e156-Hd1e105">Capitulum 5</head>
+        <p xml:id="Ly8dhJ-d1e156-d1e108">Rursus autem ascendentes dicimus quod nec anima est, nec mens; nec fantasiam, nec oppinionem, aut rationem, aut intellectum habet;
+        nec est ratio, nec intellectus. Nec dicitur, nec intelligitur, nec numerus est, nec ordo, nec magnitudo, nec parvitas, nec equalitas, nec similitudo, nec dissimilitudo; nec stat, nec movetur; nec scilentium agit, nec virtutem habet; nec virtus est, nec lumen; nec vivit, nec vita est, nec substantia est, nec evum, nec tempus, nec tactus est intelligibilis, nec scientia, nec veritas, nec regnum, nec sapientia, nec unum, nec unitas, nec deitas, aut bonitas, nec spiritus est, sicut nos videmus, nec filiatio, nec paternitas, nec aliquid aliud cognitum a nobis aut ab alio quodam existentium est, nec est aliquid non existentium, nec aliquid est existentium, nec existentia ipsam cognoscunt secundum quod ipsa est, nec ipsa cognoscit ea que sunt existentia secundum quod existentia sunt; nec ratio ipsius est, neque nomen, nec cognitio, nec tenebre est, nec lumen, nec error, nec veritas, nec ipsius universaliter positio est, nec ablatio; set eorum que sunt post ipsam, positiones et ablationes facientes, ipsam nec ponimus nec auferimus. Quoniam et super omnem positionem est perfecta et unitiva omnium causa et super omnem ablationem est excessus ab omnibus simpliciter absoluti et supra tota.
+      </p>
+      
       </div>
     </body>
   </text>
